@@ -89,7 +89,7 @@ The REST API to the RESTful_API_MySQL app is described below.
 
 ### Request
 
-`DELETE /thing/id`
+`DELETE /articles/:articleTitle`
 
     http://localhost:3000/articles/Number%201%20title
 
